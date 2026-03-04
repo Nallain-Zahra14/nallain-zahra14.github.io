@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fazila Rubab"
+title                    : "Nallain Zahra"
 title_separator          : "-"
-name                     : &name "Fazila Rubab"
+name                     : &name "Nallain Zahra"
 description              : &description "personal description"
-url                      : https://FazilaRubab.github.io 
+url                      : https://nallain-zahra14.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FazilaRubab.github.io"
+repository               : "Nallain-Zahra14.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fazila Rubab"
+  name             : "Nallain Zahra"
   avatar           : "profile.png"
-  bio              : "MS in Software Engineering"
-  location         : "Sialkot"
+  bio              : "MS in Chemistry"
+  location         : "Manchester, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmQf5gZ6HGTT7UiOHJRAyYpR7K9cY1rYka08vORULsDC7gprc9wdSmni9CQvt3JQYeo2UdQgswhHa-EJ_g&user=lGURf2cAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=i_AWV9IAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -92,14 +92,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FazilaRubab"
+  github           : "Nallain-Zahra14"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0004-9040-3459"
+  orcid            : #"https://orcid.org/0009-0004-9040-3459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
