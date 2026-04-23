@@ -10,5 +10,4 @@ redirect_from:
 
 About me
 -------------
-I hold a postgraduate degree in Software Engineering from NUST and have a growing interest in machine learning. My academic background and curiosity have led me to explore how data and computational methods can be integrated to address environmental challenges such as water quality, wastewater treatment, and flood forecasting.
-
+Academically driven graduate in Chemistry and Conservation Management with teaching, research, and laboratory experience. Seeking a role that allows me to contribute to research and student learning in an academic environment.
