@@ -13,38 +13,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Comsats University Islamabad, Pakistan (2022)
-* M.S. in Software Engineering, National University of Sciences and Technology, Pakistan (2025) 
+* M.S. in Conservation Management, Edgehill University, United Kingdom (2024)
+* M.Phil. in Chemistry, University of Gujrat, Pakistan (2021) 
+* B.S. in Chemistry, Government College University, (Faisalabad) Pakistan (2018)
 
-  
+
+Professional Teaching Qualification
+======
+* Bachelor of Education (B.Ed) in Science Education, Allama Iqbal Open University, Pakistan (2020)
+
+
+Projects
+======
+* Comparison between Nuclease Activity of Sulfonamides and their Metal Complexes
+* Exploring Biodiversity in Urban Parks: A Focus on Avian Species across Different Habitats
+
+
+Work Experience
+======
+* Teacher at
+    * Sialkot Grammar High School, Pakistan
+    * Allied School, Sialkot, Pakistan
+    * CadetPossess hands-on experience in the synthesis of metal sulfonamides. This experience encompasses following reaction protocols, handling chemicals safely, performing purification techniques, and isolating desired products.  College, Sialkot, Pakistan
+    * Scholars Academy, Sialkot, PaKistan
+* Team memeber in Taco Bell-East Didsbury, Manchester, UK
+* Online Tutor to international Students
+
+Research Experience
+======
+* Researcher at Environmental AI Research Group 
+
+
 Skills
 ======
-* Database
-  * MySQL 
-* Tool
-  * Tableau
-  * Excel
-  * MS Project
-  * Power BI Desktop
-  * Figma
-  * WordPress
-  * Go High Level
-  *  LATEX
-* Programming Language
-  * Java
-  * Python
-  * Html, CSS
-  * Javascript
-* Machine Learning
-  * scikit-learn, keras, Tensorflow, PyTorch
+* Continuous Professional Development
+* Health and Safety Standards
+* Teamwork
+* Product Knowledge
+* Staff Education and Training
 
-Certifications
+
+Experimental Techniques
 ======
-* Open Badge by Fun Mooc (Sickit-Learn)
-* Machine Learning Specialization By Stanford (Coursera)
-  * Supervised Machine Learning: Regression and Classification By Stanford
-  * Advanced Learning Algorithms By Stanford
-  * Unsupervised Learning, Recommenders, Reinforcement Learning By Stanford
+* Gel Electrophoresis
+  * Proficient in gel electrophoresis techniques for separating DNA .This includes experience in preparing gels, loading samples, running electrophoresis, and visualizing separated bands. 
+* Synthesis of Compounds
+  * Possess hands-on experience in the synthesis of metal sulfonamides. This experience encompasses following reaction protocols, handling chemicals safely, performing purification techniques, and isolating desired products.
+* Physical Characterization
+  * Skilled in determining the melting point of synthesized organic compounds. This includes using appropriate equipment and interpreting the results to assess compound purity. 
   
 Publications
 ======
